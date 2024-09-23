@@ -1,0 +1,1 @@
+# plugins-auto-hide-admin-bar
