@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Auto Hide Admin Bar - Stable (latest release)\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-12-17T17:57:25+00:00\n"
+"PO-Revision-Date: 2022-10-14 12:51:15+0000\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Author URI of the plugin
+#: auto-hide-admin-bar.php
+msgid "https://marcelbootsman.nl"
+msgstr ""
+
+#: app/class-frontend.php:27
+msgid "Toggle lock for the Toolbar"
+msgstr "Verbergen van Toolbar tijdelijk uitschakelen"
+
+#: app/class-options.php:65
+msgid "Show toggle button for locking the Toolbar"
+msgstr "Toon schakelaar voor tijdelijk uitschakelen van verbergen van de Toolbar"
+
+#: app/class-options.php:64
+msgid "Hide toggle button for locking the Toolbar"
+msgstr "Verberg schakelaar voor tijdelijk uitschakelen van verbergen van de Toolbar"
+
+#: app/class-options.php:90
+msgid "Left"
+msgstr "Links"
+
+#: app/class-options.php:91
+msgid "Right"
+msgstr "Rechts"
+
+#: app/class-options.php:78
+msgid "Show an arrow"
+msgstr "Toon pijl"
+
+#: app/class-options.php:77
+msgid "No arrow"
+msgstr "Geen pijl"
+
+#: app/class-settings.php:37
+msgid "Visual options"
+msgstr "Visuele opties"
+
+#: app/class-options.php:127
+msgid "Set a keyboard shortcut to hide/show the Toolbar"
+msgstr "Stel een toetsencombinatie in voor het tonen/verbergen van de toolbar"
+
+#: app/class-options.php:126
+msgid "Keyboard shortcut"
+msgstr "Toetsencombinatie"
+
+#. Author of the plugin
+#: auto-hide-admin-bar.php
+msgid "Marcel Bootsman"
+msgstr "Marcel Bootsman"
+
+#. Description of the plugin
+#: auto-hide-admin-bar.php
+msgid "Automatically hides the Toolbar. Will show the Toolbar when hovering over the top of the site."
+msgstr "Verbergt de WordPress toolbar. De toolbar wordt weer getoond als er met de muis langs de bovenkant van de website bewogen wordt."
+
+#. Plugin Name of the plugin
+#: auto-hide-admin-bar.php
+#: app/class-admin.php:21
+msgid "Auto Hide Admin Bar"
+msgstr "Auto Hide Admin Bar"
+
+#: app/class-options.php:107
+msgid "Always show the Toolbar"
+msgstr "De toolbar altijd tonen"
+
+#: app/class-options.php:53
+msgid "The number of milliseconds Auto Hide Admin Bar waits between reading/comparing mouse coordinates. When the user's mouse first enters the element its coordinates are recorded. Setting the polling interval higher will increase the delay before the Toolbar gets hidden."
+msgstr "Het aantal milliseconden dat Auto Hide Admin Bar wacht voor het opnieuw bekijken van de muispositie. Een hoger getal zorgt voor een langere vertraging van het verbergen van de toolbar."
+
+#: app/class-options.php:44
+msgid "This option allows you to set the delay of the hiding process. This makes sure your Toolbar doesn't go haywire when moving quickly in the top of your site."
+msgstr "Deze optie maakt het mogelijk de vertraging van het verbergen in te stellen. Zo wordt de toolbar niet onbedoeld verborgen/getoond als je per ongeluk met je muis langs de bovenkant van je website gaat."
+
+#: app/class-options.php:35
+msgid "This option allows you to set the animation speed of the hiding/unhiding process."
+msgstr "Met deze optie kan de animatiesnelheid aangepast worden van het tonen/verbergen."
+
+#: app/class-settings.php:31
+msgid "Set speed"
+msgstr "Snelheid instellen"
+
+#: app/class-admin.php:38
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: app/class-admin.php:40
+msgid "Version: "
+msgstr "Versie: "
+
+#: app/class-admin.php:20
+#: app/class-admin.php:34
+msgid "Auto Hide Admin Bar Options"
+msgstr "Auto Hide Admin Bar instellingen"
+
+#: app/class-options.php:34
+msgid "Animation speed"
+msgstr "Animatie snelheid"
+
+#: app/class-options.php:43
+msgid "Delay"
+msgstr "Vertraging"
+
+#: app/class-options.php:52
+msgid "Interval"
+msgstr "Interval"
+
+#: app/class-options.php:61
+msgid "Show or hide the toggle button"
+msgstr "De schakelaar weergeven of verbergen"
+
+#: app/class-options.php:74
+msgid "Show or hide an arrow"
+msgstr "Toon of verberg pijl"
+
+#: app/class-options.php:87
+msgid "Arrow position"
+msgstr "Positie van de pijl"
+
+#: app/class-options.php:100
+msgid "Hide on small screens"
+msgstr "Toon of verberg op kleine schermen"
+
+#: app/class-options.php:101
+msgid "The behaviour of the Toolbar in larger screens will not be affected by this option."
+msgstr "Het gedrag van de Toolbar op grotere schermen wordt door deze optie niet beïnvloed."
+
+#: app/class-options.php:106
+msgid "Hide the Toolbar on smaller screens (< 782px)"
+msgstr "Verberg de Toolbar op kleinere schermen (< 782px)"
+
+#: app/class-options.php:116
+msgid "Always show for roles"
+msgstr "Altijd tonen voor rollen"
+
+#: app/class-render-settings.php:99
+msgctxt "Displays after the input field"
+msgid "miliseconds"
+msgstr "miliseconden"
+
+#: app/class-settings.php:43
+msgid "Other"
+msgstr "Overige"
+
+#: app/class-options.php:117
+msgid "The Toolbar will always be visable for the selected roles."
+msgstr "De Toolbar zal altijd zichtbaar zijn voor de geselecteerde rollen."
